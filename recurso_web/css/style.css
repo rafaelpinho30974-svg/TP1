@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: #000033;
+    color: #FFFFFF;
+}
+
+h1 {
+    color: #FFD700;
+}
+
+h2, h3 {
+    color: #FF6347;
+}
+
+p {
+    color: #FFFFFF;
+}
+
+.recurso {
+    width: 80%;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    border: 2px solid #808080;
+}
+
+.recurso p {
+    color: #000033;
+}
+
+.recurso img {
+    width: 50%; }
